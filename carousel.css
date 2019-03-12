@@ -5,7 +5,7 @@ h1{
   font-size: 11em;
 }
 h2{
-  font-size: 9em;
+  font-size: 8em;
 }
 p{
   text-align: left;
@@ -15,9 +15,6 @@ body {
   padding-bottom: 3rem;
   color: #5a5a5a;
   }
-}
- btn-secondary {
-background: #5a5a5a;
 }
 
 /* CUSTOMIZE THE CAROUSEL
